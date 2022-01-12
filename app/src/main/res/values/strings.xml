@@ -2,4 +2,5 @@
     <string name="app_name">Service</string>
     <string name="buttonStart">Start service</string>
     <string name="buttonStop">Stop service</string>
+    <string name="ticker_texts">ticker</string>
 </resources>
